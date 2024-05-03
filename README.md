@@ -24,5 +24,3 @@ Follow these simple steps to open the Python files in Google Colab:
 
 To make the 'Open in Colab' button visible in your GitHub repository, you can add the following markdown code in your README.md file:
 
-```markdown
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-github-username/your-repo-name/blob/main/path-to-your-notebook.ipynb)
