@@ -1,3 +1,3 @@
 # reinforcement_learning
 
-Reinforcement Learning Project
+Open the files in Google Colab
