@@ -19,8 +19,4 @@ Follow these simple steps to open the Python files in Google Colab:
 2. **Use the 'Open in Colab' Button**:
    - Navigate to the specific Python file you want to open.
    - Click on the "Open in Colab" button at the top of the file. This button is added by embedding a specific link in the README.md or directly above the code in a comment.
-
-### How to Add the 'Open in Colab' Button to Your README
-
-To make the 'Open in Colab' button visible in your GitHub repository, you can add the following markdown code in your README.md file:
-
+   - Once the file is open in Google Colab, you can run the code by executing each cell sequentially. To run a cell, click on the play button next to the cell or press `Ctrl+Enter`.
